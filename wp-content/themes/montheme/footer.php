@@ -6,7 +6,8 @@
     'menu_class' => 'navbar-nav mr-auto'
   ]);
   ?>
-  <p>change</p>
+  <p>change again and again</p>
+  <p>change again and again</p>
 </footer>
 <?php wp_footer() ?>
 </body>
