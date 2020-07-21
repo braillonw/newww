@@ -7,7 +7,7 @@
   ]);
   ?>
   <p>change again and again</p>
-  <p>change again and again</p>
+  <p>change now for pr</p>
 </footer>
 <?php wp_footer() ?>
 </body>
