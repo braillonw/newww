@@ -6,7 +6,8 @@
     'menu_class' => 'navbar-nav mr-auto'
   ]);
   ?>
-  <p>hello</p>
+  <p>hello hello hello</p>
+  <p>hello hello hello</p>
 </footer>
 <?php wp_footer() ?>
 </body>
